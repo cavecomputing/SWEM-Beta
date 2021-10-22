@@ -23,11 +23,3 @@ You are able to create a github account and submit bug reports at the top of the
 ~~- **Email:** foundabug@swequestrian.com~~
 
 ~~When submitting an email, the issue title will be the subject of the email and the body will be the details in the actual issue.~~
-
-### Submitting a suggestion
-
-We are plenty open to suggestions!
-We want a seperate template for submitting suggestions though so we can keep them seperate from bugs.   
-The template can be found at the bottom of the FAQ but please follow the naming convention.   
-
-**title:** The **title** of the issue should begin with `[Suggestion]` ~~and if submitting over email this would be the subject.~~   
