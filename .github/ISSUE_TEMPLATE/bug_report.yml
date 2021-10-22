@@ -1,0 +1,58 @@
+name: Bug Report
+description: File a bug report
+title: "[Bug]: "
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this bug report!
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: Also tell us, what did you expect to happen?
+      placeholder: Tell us what you see!
+      value: "A bug happened!"
+    validations:
+      required: true
+  - type: textarea
+    id: mods
+    attributes:
+      label: Mods
+      description: A list of mods and their version.
+    validations:
+      required: true
+
+  - type: input
+    id: swemVersion
+    attributes:
+      label: SWEM Version
+      description:  What version of our mod are you using?
+    validations:
+      required: true
+  - type: checkboxes
+    id: worlds
+    attributes:
+    label: Singleplayer or Multiplayer
+    description: Check the box on what world this issue has happened, you can check both if it appears on both a singleplayer and a server.
+    options:
+      - label: Singleplayer
+      - label: Multiplayer
+  - type: dropdown
+    id: os
+    attributes:
+      label: OS
+      description: What OS are you running?
+      options:
+        - Linux
+        - Windows
+        - Mac
+    validations:
+      required: true
+  - type: textarea
+    id: logs
+    attributes:
+      label: Relevant log output
+      description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
+      render: shell
