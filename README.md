@@ -1,6 +1,6 @@
-# SWEM Alpha Testing
+# SWEM Beta Testing
 
-This repo is to track various bugs found by the SWE/M community during the alpha testing phase.
+This repo is to track various bugs found by the SWE/M community during the beta testing phase.
 
 # FAQ
 
