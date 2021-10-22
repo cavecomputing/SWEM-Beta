@@ -63,5 +63,5 @@ body:
     id: logs
     attributes:
       label: Relevant log output
-      description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
+      description: Please copy and paste any relevant log output (Crash Report if the game/server crashed, else paste the latest.log if it just happened, else a debug.log). This will be automatically formatted into code, so no need for backticks.
       render: shell
