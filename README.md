@@ -17,4 +17,4 @@ Issue tracking will be handled via this Github repo. You will need to create a G
   This will be the primary location to submit any and all bug reports  
 * You can see the current bugs being tracked and via a green button at the top right that says `New Issue`, you can create a new issue  
  
-**prior to submitting a bug report, please make sure there is not an existing bug report that already details your problem**.  
+**Prior to submitting a bug report, please make sure there is not an existing bug report that already details your problem**.  
