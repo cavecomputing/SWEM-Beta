@@ -6,20 +6,11 @@ This repo is to track various bugs found by the SWE/M community during the beta 
 
 ### Where do I get the mod?   
 
-- Ask AlaharranHonor :)   
+- It should be available in the `newest-release` channel     
 
 ### Submitting a bug report
+*Note: Do NOT contact a a volunteer directly related to bugs*   
 
-To submit a bug report you can do so two different ways   
+Issue tracking will be handled via this Github repo. You will need to create a Github account in order to submit issues.  
 
-**1. The preferred method: Github Account**   
-You are able to create a github account and submit bug reports at the top of the page under "Issues". This has a couple benefits
-
-- You are able to actively participate in the troubleshooting process   
-- You will be notified when someone responds to the report and can easily respond to additional requests   
-
-~~**2. Secondary method: Email**~~ `NO LONGER VALID`  
-~~There is an email you can send information to and it will automatically create a bug report without the need to create a github account. Unfortunately since this method forgoes the normal reporting process, you will miss out on the above points for using a github account. In addition, this is entirely anonymous so we have no way of figuring out who sent this information for a follow up.~~
-~~- **Email:** foundabug@swequestrian.com~~
-
-~~When submitting an email, the issue title will be the subject of the email and the body will be the details in the actual issue.~~
+At the top of the page is a tab labeled `Issues`. This will be the primary location to submit any and all bug reports. You can see the current bugs being tracked and via a green button at the top right that says `New Issue`, you can create a new issue. **prior to submitting a bug report, please make sure there is not an existing bug report that already details your problem**.  
