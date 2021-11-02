@@ -18,3 +18,5 @@ Issue tracking will be handled via this Github repo. You will need to create a G
 * You can see the current bugs being tracked and via a green button at the top right that says `New Issue`, you can create a new issue  
  
 **Prior to submitting a bug report, please make sure there is not an existing bug report that already details your problem**.  
+
+#### Prior to submitting a bug report you MUST test the mod by itself with NO OTHER MODS in a singleplayer world to determine if it is an issue with SWEM or with the other mod.
