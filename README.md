@@ -6,7 +6,7 @@ This repo is to track various bugs found by the SWE/M community during the beta 
 
 ### Where do I get the mod?   
 
-- It is available in the `newest-release` channel in the Discord channel  
+- It is available in the `newest-release` channel in the Discord server under the `Beta Testing` section
 
 ### Submitting a bug report
 *Note: Do NOT contact a volunteer directly about bugs*   
